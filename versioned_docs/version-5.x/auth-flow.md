@@ -251,6 +251,7 @@ function SignInScreen() {
         placeholder="Username"
         value={username}
         onChangeText={setUsername}
+        ////
       />
       <TextInput
         placeholder="Password"
